@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+data/breakfast/feat
+data/MNIST_data
+data/breakfast/results
+playground/
+*/__pycache__/
