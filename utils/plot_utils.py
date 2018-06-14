@@ -5,6 +5,8 @@ import matplotlib.patches as mpatches
 from numpy import array, mean, unique, vstack
 from os.path import join
 
+mpl.rcParams.update({'font.size': 18})
+
 
 def my_plot(vector, xlabel_str=None, ylabel_str=None, title_str=None,
             output_file=None):
